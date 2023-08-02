@@ -5,4 +5,4 @@ SIMON is a robot that will perform a series of random color, the goal of the gam
 Each sequence performed correctly will make you level up and each level up adds 1 color. The objective is to have the highest level! Good game! <br>
 
 <br>
-Try it out at: https://aryashubhanshu.github.io/Simon-Game/
+Try it out at: https://aryashubhanshu.github.io/Pattern-Remember/
